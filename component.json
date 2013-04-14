@@ -1,0 +1,10 @@
+{
+  "name": "momentjs-web-lang",
+  "version": "2.0.0",
+  "description": "momentjs language packs, for use within the browser",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/vperron/momenjs-web-lang.git"
+  }
+}
